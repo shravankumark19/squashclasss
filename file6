@@ -1,3 +1,9 @@
 file6
+<<<<<<< HEAD
 thia is nagarjuna
 applying git stash concept on dec 11 2024
+=======
+hi everyone
+this is git stash concept
+written by sk
+>>>>>>> 54a036ec25c7dbe337f035649a4da9533186f191
